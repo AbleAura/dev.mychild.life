@@ -910,7 +910,7 @@
     </style>
 </head>
 
-<body style="overflow: auto;">
+<body>
     <div class="container-fluid">
         <div class="row row-1">
             <div class="col-12 top-bar">
